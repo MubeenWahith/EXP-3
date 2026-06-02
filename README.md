@@ -40,18 +40,36 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+
+
 <img width="309" height="401" alt="image" src="https://github.com/user-attachments/assets/f15fa7fc-66e8-4ef8-9f38-1e39945b354e" />
 
 Tabulation:1
+
+
+
+
 <img width="214" height="434" alt="image" src="https://github.com/user-attachments/assets/73928a68-7904-4d47-94b8-58760e6f8356" />
 
 Cross connection: CIRCUIT DIAGRAM:
+
+
+
+
+
 <img width="255" height="439" alt="image" src="https://github.com/user-attachments/assets/2377e1d5-5630-43ed-be3e-1b7d328f10e3" />
 
 Tabulation:2
+
+
+
 <img width="213" height="454" alt="image" src="https://github.com/user-attachments/assets/62f5bad3-8e78-4421-9712-c9fe36c5b145" />
 
+
+
 RESULT:
+
 <img width="327" height="183" alt="image" src="https://github.com/user-attachments/assets/076d7223-bc7d-4e5f-b522-8c2134298ab9" />
 
 <img width="318" height="160" alt="image" src="https://github.com/user-attachments/assets/93324d3e-47ca-4e4d-9fd2-89f232538203" />
